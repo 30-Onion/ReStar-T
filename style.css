@@ -1,6 +1,6 @@
 header {
     display: flex;
 }
-logo {
+nav {
     justify-content: right;
 }
