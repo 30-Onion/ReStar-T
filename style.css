@@ -1,6 +1,4 @@
 header {
     display: flex;
-}
-nav {
-    text-aline: right;
+    justify-content: space-between;
 }
